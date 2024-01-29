@@ -1,0 +1,14 @@
+.socialButtons{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+span{
+    border: solid 1px black;
+    border-radius: 50%;
+    padding: 15px;
+}
+
+span:hover{
+    cursor: pointer;
+}
